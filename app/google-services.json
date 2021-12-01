@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308915305349",
+    "project_id": "trabajo-n2",
+    "storage_bucket": "trabajo-n2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308915305349:android:7141d5708c3143e1c322ec",
+        "android_client_info": {
+          "package_name": "com.example.trabajo_n2_jaime_irribarra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308915305349-laejvssjja349iev1989spdss9s5i0rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2ZO241qzNatKlBZTxatEUYuMgmzfgZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308915305349-laejvssjja349iev1989spdss9s5i0rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
